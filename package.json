@@ -1,5 +1,5 @@
 {
-  "name": "odin-template",
+  "name": "odin-knight-travails",
   "version": "1.0.0",
   "description": "Template repository for all boilerplate learned from odin project up to the 'Linting' lesson.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "prettier": "prettier . --write"
   },
   "keywords": [],
-  "author": "",
+  "author": "HenryCodesGit",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.8.1",
@@ -24,5 +24,13 @@
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryCodesGit/odin-knight-travails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HenryCodesGit/odin-knight-travails/issues"
+  },
+  "homepage": "https://github.com/HenryCodesGit/odin-knight-travails#readme"
 }
